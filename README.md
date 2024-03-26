@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @yashowardhanMahadik
-- 👀 I’m interested in Cool things
-- 🌱 I’m currently learning Java backend
-- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me yashowardhanmahadik@gmail.com
 
 <!---
